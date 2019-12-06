@@ -2,8 +2,10 @@
 
 ### Data Mining Project Fall 2019
 
+```https://github.com/davidic2ofu/data_mining```
 
-These programs expect Python3 environment.
+
+These programs expect Python3 environment (you may want to use a virtualenv).
 
 To install package requirements please run
 
